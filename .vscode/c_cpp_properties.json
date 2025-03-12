@@ -5,7 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:/opencv/build/include",
-                "C:/opencv/build/include/opencv2"
+                "C:/opencv/build/include/opencv2",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/source"
             ],
             "defines": [
                 "_DEBUG",
